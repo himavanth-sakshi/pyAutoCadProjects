@@ -11,10 +11,10 @@
 6. Drawing validation tools to check CAD standards
 
 ## 🛠️ Technologies Used
-Python
-pyautocad
-openpyxl (for Excel integration)
-AutoCAD COM API (via win32com.client)
+- Python
+- pyautocad
+- openpyxl (for Excel integration)
+- AutoCAD COM API (via win32com.client)
 
 
 ## 💡 Use Cases
